@@ -10,9 +10,11 @@ Configuration:
 - Install Neovim (0.9+) https://github.com/neovim/neovim/releases and configure Neovim to be in the path.
 - By default Neovim uses 3 main directories ( ~/.config, ~/.local/share, ~/.local/state). If you want to change the default directories of installation then you can use the following environment variables: 
 
-  export XDG_CONFIG_HOME=your_path/config
-  export XDG_STATE_HOME=your_path/state
-  export XDG_DATA_HOME=your_path/share 
+export XDG_CONFIG_HOME=your_path/config
+
+export XDG_STATE_HOME=your_path/state
+
+export XDG_DATA_HOME=your_path/share 
 
 - Install AstroNvim. But before to do it. You could opt to customize the default directory location. In order to do that set the following:
 
