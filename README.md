@@ -1,6 +1,6 @@
 # Custom Nvim Configuration
 
-These are my .dotfiles for Neovim. I'm using AstroNvim as base configuration (https://astronvim.com/). 
+This is my custom configuration for Neovim. I'm using AstroNvim as base configuration (https://astronvim.com/). 
 
 This is the look:
 <img width="1663" alt="image" src="https://user-images.githubusercontent.com/700619/235500591-306592ba-f9b7-4a45-a6b1-79350443e6be.png">
