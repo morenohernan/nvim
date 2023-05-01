@@ -1,7 +1,7 @@
 return {
   "rebelot/heirline.nvim",
   opts = function(_, opts)
-    opts.tabline = nil,
+    opts.tabline = nil
     opts.statusline={
       showtabline = 0,
     }
