@@ -1,4 +1,4 @@
-# .dotfiles
+# Custom Nvim Configuration
 
 These are my .dotfiles for Neovim. I'm using AstroNvim as base configuration (https://astronvim.com/). 
 
@@ -21,7 +21,7 @@ Configuration:
   alias avim='NVIM_APPNAME=AstroNvim nvim' 
 
 - Then in terminal execute: git clone --depth 1 https://github.com/AstroNvim/AstroNvim $XDG_CONFIG_HOME/AstroNvim
-- Install these dotfiles. Execute: git clone https://github.com/morenohernan/.dotfiles $XDG_CONFIG_HOME/AstroNvim/lua/user
+- Install these dotfiles. Execute: git clone https://github.com/morenohernan/nvim $XDG_CONFIG_HOME/AstroNvim/lua/user
 - In terminal execute: avim
 - Enjoy !!!
 
