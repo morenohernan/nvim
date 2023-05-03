@@ -8,6 +8,7 @@ This is the look:
 <img width="1672" alt="image" src="https://user-images.githubusercontent.com/700619/235378888-5afb7fc4-26bb-4335-8066-0daa4f73a7aa.png">
 
 Configuration:
+- Install Nerd fonts 3270 https://www.nerdfonts.com/font-downloads
 - Install Neovim (0.9+) https://github.com/neovim/neovim/releases and configure Neovim to be in the path.
 - By default Neovim uses 3 main directories ( ~/.config, ~/.local/share, ~/.local/state). If you want to change the default directories of installation then you can use the following environment variables: 
 
